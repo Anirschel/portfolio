@@ -1,0 +1,9 @@
+body {
+  border-style: solid;
+  border-color: white;
+  border-width: 6px;
+}
+
+h1 {
+    text-shadow: 9px 3px 20px #000000;
+}
